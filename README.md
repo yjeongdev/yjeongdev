@@ -46,9 +46,9 @@
 <br>  
 <div>
   <!-- Eclipse IDE -->
-  <a href="" target="_blank"><img src="https://img.shields.io/badge/Eclipse IDE-2C2255?style=for-the-badge&logo=Eclipse IDE&logoColor=white"/></a>
+  <a href="" target="_blank"><img src="https://img.shields.io/badge/Eclipse-2C2255?style=for-the-badge&logo=Eclipse&logoColor=white"/></a>
   <!-- Apache Tomcat -->
-  <a href="" target="_blank"><img src="https://img.shields.io/badge/Apache Tomcat-F8DC75?style=for-the-badge&logo=Apache Tomcat&logoColor=white"/></a> 
+  <a href="" target="_blank"><img src="https://img.shields.io/badge/Apache-F8DC75?style=for-the-badge&logo=Apache&logoColor=white"/></a> 
   <!-- GitHub -->
   <a href="" target="_blank"><img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=GitHub&logoColor=white"/></a>
   <!-- Subversion -->
