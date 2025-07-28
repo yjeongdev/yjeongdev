@@ -62,7 +62,7 @@
 <h3>💼 Careers</h3>
 <br>
 <div>
-   December 2022 ~ : Web Developer <a href="www.innofactory.net">@Innofactory</a><br> 
+   December 2022 ~ : Web Developer <a href="https://www.innofactory.net/">@InnoFactory</a><br> 
 </div>
 <br>
 
