@@ -12,92 +12,100 @@
 </div>
 <br>
 
-<!-- 뱃지 -->
-<h3>✏ Skills</h3>
-<br>   
+<!-- 방문수 -->
+[![Hits](https://myhits.vercel.app/api/hit/https%3A%2F%2Fgithub.com%2Fyjeongdev?color=green&label=Hits&size=small)](https://myhits.vercel.app)
+
+<!-- 기술 스택 -->
+<h3>✏ Language</h3>
 <div>
-  <!-- JAVA -->
-  <a href="" target="_blank"><img src="https://img.shields.io/badge/Java-007396?style=for-the-badge&logo=OpenJDK&logoColor=white"/></a>
-  <!-- Spring -->
-  <a href="" target="_blank"><img src="https://img.shields.io/badge/Spring-6DB33F?style=for-the-badge&logo=Spring&logoColor=white"/></a>
+  <!-- Java -->
+  <img src="https://img.shields.io/badge/Java-007396?style=for-the-badge&logo=OpenJDK&logoColor=white"/>
+  <!-- Python -->
+  <img src="https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54"/>
   <!-- JavaScript -->
-  <a href="" target="_blank"><img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=JavaScript&logoColor=white"/></a>
+  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=JavaScript&logoColor=white"/>
   <!-- HTML5 -->
-  <a href="" target="_blank"><img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=HTML5&logoColor=white"/></a>
+  <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=HTML5&logoColor=white"/>
   <!-- CSS3 -->
-  <a href="" target="_blank"><img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=CSS3&logoColor=white"/></a>
+  <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=CSS3&logoColor=white"/>
   <!-- JSON -->
-  <a href="" target="_blank"><img src="https://img.shields.io/badge/JSON-000000?style=for-the-badge&logo=JSON&logoColor=white"/></a>
-  <!-- JQuery -->
-  <a href="" target="_blank"><img src="https://img.shields.io/badge/JQuery-0769AD?style=for-the-badge&logo=JQuery&logoColor=white"/></a>
+  <img src="https://img.shields.io/badge/JSON-000000?style=for-the-badge&logo=JSON&logoColor=white"/>
 </div>
-   
+<h3>⚙ Framework, Library</h3>
+<div>
+  <!-- Spring -->
+  <img src="https://img.shields.io/badge/Spring-6DB33F?style=for-the-badge&logo=Spring&logoColor=white"/>
+  <!-- FastAPI -->
+  <img src="https://img.shields.io/badge/FastAPI-009688?style=for-the-badge&logo=FastAPI&logoColor=white"/>
+  <!-- React -->
+  <img src="https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB"/>
+  <!-- JQuery -->
+  <img src="https://img.shields.io/badge/JQuery-0769AD?style=for-the-badge&logo=JQuery&logoColor=white"/>
+  <!-- Bootstrap -->
+  <img src="https://img.shields.io/badge/Bootstrap-7952B3?style=for-the-badge&logo=Bootstrap&logoColor=white"/>
+  <!-- Tailwind CSS -->
+  <img src="https://img.shields.io/badge/Tailwind%20CSS-06B6D4?style=for-the-badge&logo=TailwindCSS&logoColor=white"/>
+</div>
+<h3>🗃 Version Control</h3>
+<div>
+  <!-- GitHub -->
+  <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=GitHub&logoColor=white"/>
+  <!-- Subversion -->
+  <img src="https://img.shields.io/badge/Subversion-809CC9?style=for-the-badge&logo=Subversion&logoColor=white"/>
+  <!-- Tortoise SVN -->
+  <img src="https://img.shields.io/badge/tortoiseSVN-green?style=for-the-badge&logo=tortoiseSVN&logoColor=white"/>
+</div>
+<h3>🗄 Database</h3>
 <div>
   <!-- Oracle -->
-  <a href="" target="_blank"><img src="https://img.shields.io/badge/Oracle-F80000?style=for-the-badge&logo=Oracle&logoColor=white"/></a>
+  <img src="https://img.shields.io/badge/Oracle-F80000?style=for-the-badge&logo=Oracle&logoColor=white"/>
   <!-- MariaDB -->
-  <a href="" target="_blank"><img src="https://img.shields.io/badge/MariaDB-003545?style=for-the-badge&logo=MariaDB&logoColor=white"/></a>
+  <img src="https://img.shields.io/badge/MariaDB-003545?style=for-the-badge&logo=MariaDB&logoColor=white"/>
   <!-- PostgreSQL -->
-  <a href="" target="_blank"><img src="https://img.shields.io/badge/PostgreSQL-4169E1?style=for-the-badge&logo=PostgreSQL&logoColor=white"/></a>
+  <img src="https://img.shields.io/badge/PostgreSQL-4169E1?style=for-the-badge&logo=PostgreSQL&logoColor=white"/>
 </div>
-<br>   
-
-<h3>⛏Tools</h3>
-<br>  
+<h3>🧰 Tool, Server</h3>
 <div>
   <!-- Eclipse IDE -->
-  <a href="" target="_blank"><img src="https://img.shields.io/badge/Eclipse-2C2255?style=for-the-badge&logo=Eclipse&logoColor=white"/></a>
+  <img src="https://img.shields.io/badge/Eclipse-2C2255?style=for-the-badge&logo=Eclipse&logoColor=white"/>
+  <!-- Visual Studio Code -->
+  <img src="https://img.shields.io/badge/Visual%20Studio%20Code-0078d7.svg?style=for-the-badge&logo=visual-studio-code&logoColor=white"/>
+  <!-- VirtualBox -->
+  <img src="https://img.shields.io/badge/VirtualBox-2F61B4?style=for-the-badge&logo=VirtualBox&logoColor=white"/>
   <!-- Apache Tomcat -->
-  <a href="" target="_blank"><img src="https://img.shields.io/badge/Apache-F8DC75?style=for-the-badge&logo=Apache&logoColor=white"/></a> 
-  <!-- GitHub -->
-  <a href="" target="_blank"><img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=GitHub&logoColor=white"/></a>
-  <!-- Subversion -->
-  <a href="" target="_blank"><img src="https://img.shields.io/badge/Subversion-809CC9?style=for-the-badge&logo=Subversion&logoColor=white"/></a>
-  <!-- Bootstrap -->
-  <a href="" target="_blank"><img src="https://img.shields.io/badge/Bootstrap-7952B3?style=for-the-badge&logo=Bootstrap&logoColor=white"/></a>
-</div>
-<br>   
-
-<!-- 경력 -->
-<h3>💼 Careers</h3>
-<br>
-<div>
-   December 2022 ~ : Web Developer <a href="https://www.innofactory.net/">@InnoFactory</a><br> 
+  <img src="https://img.shields.io/badge/apache%20tomcat-%23F8DC75.svg?style=for-the-badge&logo=apache-tomcat&logoColor=black"/>
+  <!-- OpenAI -->
+  <img src="https://img.shields.io/badge/OpenAI-412991?style=for-the-badge&logo=OpenAI&logoColor=white"/>
 </div>
 <br>
-
-
-<!-- 프로젝트 -->
-<h3>📝 Projects</h3>
-<br>
-<div>
-   
-</div>
 <br>
 
+<p>
+	<!-- 백준 티어 -->
+	<a href="https://solved.ac/jyeji75/">
+		<img src="http://mazassumnida.wtf/api/v2/generate_badge?boj=jyeji75" alt="boj tier"/>
+	</a>
+</p>
+<p>
+	<!-- GitHub 사용 언어 -->
+	<a href="https://github.com/yjeongdev/github-readme-stats">
+		<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=yjeongdev&theme=vue&layout=compact" alt="Top Langs"/>
+	</a>
+</p>
+<p>
+   <!-- GitHub 평가 -->
+	<a href="https://github.com/yjeongdev/github-readme-stats">
+		<img src="https://github-readme-stats.vercel.app/api?username=yjeongdev&theme=vue" alt="GitHub stats"/>
+	</a>
+</p>
 
+<br>
 <!-- 연락처 -->
 <h3>📞 Contact</h3>
-<br>
 <div>
    e-mail : <a href="mailto:jyeji75@gmail.com">jyeji75@gmail.com</a><br>
    instagram : <a href="https://www.instagram.com/ma_baem/" target="_blank">@ma_baem</a>
 </div>
 <br>
 <br>
-
-<!-- 백준티어 -->
-[![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=jyeji75)](https://solved.ac/jyeji75/)
-
 <br>
-
-<!-- GitHub 사용 언어 -->
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=yjeongdev&theme=vue&layout=compact)](https://github.com/yjeongdev/github-readme-stats)
-
-<!-- GitHub 평가 -->
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=yjeongdev&theme=vue)](https://github.com/yjeongdev/github-readme-stats)
-
-<br>
-
-<!-- 방문수 -->
-[![Hits](https://myhits.vercel.app/api/hit/https%3A%2F%2Fgithub.com%2Fyjeongdev?color=green&label=Hits&size=small)](https://myhits.vercel.app)
