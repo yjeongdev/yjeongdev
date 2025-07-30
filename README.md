@@ -1,6 +1,3 @@
-<!-- 헤더 -->
-![header](https://capsule-render.vercel.app/api?type=Slice&color=0:ABD4BE,100:8CAD9C&height=200&section=header&text=&fontSize=65)
-
 <!-- 인사말 -->
 <h3>💁🏻‍♀️ About me</h3>
 <br>
